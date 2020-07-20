@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b2e78c8d-a76f-4cb0-b8ac-a80a87790c91</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>pythonnote.py</StartupFile>
+    <StartupFile>study2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="study2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="pythonnote.py" />
     <Compile Include="study1.py">
       <SubType>Code</SubType>
